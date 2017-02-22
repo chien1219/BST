@@ -2,6 +2,7 @@
 Binary Search Tree
 
 >g++ Source.cpp -o bstree
+
 >./bstree test.txt
 
 binary search tree that include ops:
